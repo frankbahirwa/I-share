@@ -28,7 +28,7 @@ const Loader = () => {
                             activeDot === index ? 'bg-red-400 w-7 h-7' : 'bg-red-200 w-5 h-5'
                         }`}
                     ></div>
-                ))}
+                ))} 
             </div>
         </div>
     );
